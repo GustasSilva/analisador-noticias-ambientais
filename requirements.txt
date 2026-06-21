@@ -1,0 +1,17 @@
+# Dependências do Analisador de Notícias Ambientais
+# Instale com: pip install -r requirements.txt
+# (tkinter já vem na biblioteca padrão do Python)
+
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+nltk
+
+# Coleta e extração de texto de notícias na web
+requests
+beautifulsoup4
+newspaper3k
+lxml
+lxml_html_clean

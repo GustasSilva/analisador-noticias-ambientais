@@ -1,0 +1,12 @@
+# Normaliza finais de linha automaticamente
+* text=auto
+
+# Arquivos Python sempre com LF
+*.py text eol=lf
+
+# CSV tratado como texto
+*.csv text
+
+# Marca o CSV de dados como "linguist-generated" para não poluir as
+# estatísticas de linguagem do repositório no GitHub
+dataset_noticias.csv linguist-generated=true

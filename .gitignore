@@ -1,0 +1,27 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modelos treinados (gerados automaticamente a partir do dataset na 1ª execução)
+*.pkl
+
+# Saída gerada em tempo de execução
+noticias_analisadas.csv
+
+# Dados do NLTK (baixados automaticamente)
+nltk_data/
+
+# Configurações de IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
