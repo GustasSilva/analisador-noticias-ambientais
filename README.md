@@ -10,7 +10,7 @@ O texto pode ser inserido manualmente ou coletado automaticamente a partir da
 **URL** de uma notícia. Os resultados podem ser corrigidos pelo usuário e salvos,
 fazendo o modelo **reaprender** com os novos dados (aprendizado incremental).
 
-> Projeto desenvolvido como APS (Atividade Prática Supervisionada) na faculdade.
+> Projeto acadêmico.
 
 ---
 
